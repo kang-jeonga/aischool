@@ -2,3 +2,5 @@
 
 ## 1주차 과제 (2020.05.21)
 - [인공지능 제품 속 기술](https://github.com/kang-jeonga/aischool/blob/master/1%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C_jeong.ipynb)
+## 2주차 과제 (2020.05.28)
+- [파이썬과 인공지능 기초수학)
